@@ -1,0 +1,118 @@
+[
+    {
+        "name":"ToDo",
+        "items": [
+            {
+                "id":1,
+                "priority": 0,
+                "title": "UI Design",
+                "chat": 1,
+                "attachment": 2,
+                "assignees": [
+                    {
+                        "avt": "https://randomuser.me/api/portraits/men/75.jpg"
+                    }
+                ]
+            },
+            {
+                "id":2,
+                "priority": 2,
+                "title": "Mobile app login process prototype.",
+                "chat": 10,
+                "attachment": 4,
+                "assignees": [
+                    {
+                        "avt": "https://randomuser.me/api/portraits/men/67.jpg"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name":"In Progress",
+        "items": [
+            {
+                "id":3,
+                "priority": 1,
+                "title": "Check client feedback",
+                "chat": 0,
+                "attachment": 3,
+                "assignees": [
+                    {
+                        "avt": "https://randomuser.me/api/portraits/men/79.jpg"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name":"Approved",
+        "items": [
+            {
+                "id":4,
+                "priority": 2,
+                "title": "Prototype",
+                "chat": 13,
+                "attachment": 2,
+                "assignees": [
+                    {
+                        "avt": "https://randomuser.me/api/portraits/men/75.jpg"
+                    }
+                ]
+            },
+            {
+                "id":5,
+                "priority": 0,
+                "title": "Social media posts",
+                "chat": 0,
+                "attachment": 0,
+                "assignees": [
+                    {
+                        "avt": "https://randomuser.me/api/portraits/men/68.jpg"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name":"Reject",
+        "items": [
+            {
+                "id":6,
+                "priority": 0,
+                "title": "Sorting Catagory",
+                "chat": 13,
+                "attachment": 2,
+                "assignees": [
+                    {
+                        "avt": "https://randomuser.me/api/portraits/men/75.jpg"
+                    }
+                ]
+            },
+            {
+                "id":7,
+                "priority": 1,
+                "title": "Animation Preloader",
+                "chat": 0,
+                "attachment": 0,
+                "assignees": [
+                    {
+                        "avt": "https://randomuser.me/api/portraits/men/68.jpg"
+                    }
+                ]
+            },
+            {
+                "id":8,
+                "priority": 2,
+                "title": "Create style guide based on previous feedback",
+                "chat": 5,
+                "attachment": 2,
+                "assignees": [
+                    {
+                        "avt": "https://randomuser.me/api/portraits/men/64.jpg"
+                    }
+                ]
+            }
+        ]
+    }
+]
